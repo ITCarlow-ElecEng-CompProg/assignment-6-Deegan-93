@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1508338053 source:c:\users\user\desktop\college work second year\computer programming\exercise 6 - decimal_binary conversion\main.cpp
+	<iostream>
+	<cmath>
+	<cstdio>
+
